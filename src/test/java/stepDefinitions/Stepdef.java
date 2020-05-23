@@ -1,29 +1,30 @@
 package stepDefinitions;
 
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.IOException;
-import java.util.Properties;
+import java.util.List;
+import java.util.Map;
+import java.util.concurrent.TimeUnit;
 
-import org.apache.log4j.Level;
-import org.apache.log4j.Logger;
-import org.apache.log4j.PropertyConfigurator;
+import org.junit.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
-import org.openqa.selenium.ie.InternetExplorerDriver;
+import org.openqa.selenium.WebElement;
 
-import cucumber.api.java.Before;
-import io.cucumber.java.en.*;
-import junit.framework.Assert;
+
+import io.cucumber.datatable.DataTable;
+import io.cucumber.java.en.And;
+import io.cucumber.java.en.Given;
+import io.cucumber.java.en.Then;
+import io.cucumber.java.en.When;
 import pageObjects.AddCustomerPage;
 import pageObjects.LoginPage;
+import pageObjects.SearchBoxLocators;
 import pageObjects.SearchCustomerPage;
 
 public class Stepdef extends BaseClass
 {
-	@Before
+	public WebDriver driver  = BaseClass.driver;
+	/*@Before
 	public void setup() throws IOException
 	{
 		//Logging
@@ -56,15 +57,16 @@ public class Stepdef extends BaseClass
 			driver = new InternetExplorerDriver();
 		}
 		
-	}
+	}*/
 	
 	
 	//Login Steps.....
 	@Given("User Launch Chrome browser")
-	public void user_Launch_Chrome_browser() 
+	public void user_Launch_Chrome_browser()
 	{
 		logger.info("*************** Launching Browser ***************");
 		lp = new LoginPage(driver);
+		
 	}
 
 	@When("User opens URL {string}")
@@ -248,6 +250,122 @@ public class Stepdef extends BaseClass
 	{
 		boolean status = searchCust.searchCustomerByName("Victoria Terces");
 		Assert.assertEquals(true, status);
+	}
+	
+	@And("^User enters Email and Password New$")
+	public void user_enters_testuser__and_Test(DataTable usercredentials) throws Throwable {
+	 
+		//Write the code to handle Data Table
+		 List<Map<String,String>> data = usercredentials.asMaps(String.class,String.class);
+		 System.out.println(data.get(0).get("Username"));
+		 System.out.println(data.get(1).get("Username"));
+			
+	 }
+	
+	@When("Enter Text in SearchBox")
+	public void enter_Text_in_SearchBox() throws InterruptedException 
+	{
+		sb = new SearchBoxLocators(driver);
+		
+		sb.enterText("Mobile");
+		sb.clickSearchButton();
+		String title = driver.getTitle();
+		System.out.println(title);
+		Assert.assertTrue(title.contains("Mobile"));
+		
+	}
+	
+	@When("Enter Text with single character in SearchBox")
+	public void enter_Text_with_single_character_in_SearchBox() throws InterruptedException 
+	{
+		sb = new SearchBoxLocators(driver);
+		sb.enterText2("Mobile");
+		
+	}
+	
+	@Then("Get result on suggestion text")
+	public void get_result_on_suggestion_text() throws InterruptedException
+	{
+		Thread.sleep(5000);
+	  //List<WebElement> list = driver.findElements(By.className("typeahead-text"));
+	  List<WebElement> list = driver.findElements(By.xpath("//li[@class='typeahead-row']//child::div[@class='typeahead-text']"));
+	 // SoftAssert softAssert = new SoftAssert();
+	  for(WebElement suggest : list)
+	  {
+		  Assert.assertTrue(suggest.getText().contains("1"));
+		  System.out.println(suggest.getText());
+		  
+	  }
+	  //softAssert.assertAll();
+	  
+	}
+	
+	@When("Selecty Categories")
+	public void selecty_Categories()
+	{
+		sb = new SearchBoxLocators(driver);
+		sb.clickDDSearchBox();
+		sb.clickCategory();
+	}
+	
+	@When("Enter text with Space in searchbox")
+	public void enter_text_with_space_in_searchbox() 
+	{
+		
+		StringBuilder text = new StringBuilder()
+				.append("Mobile")
+				.append(" ")
+				.append("Phones");
+		
+		driver.findElement(By.xpath("//input[@id='global-search-input']")).sendKeys(text);
+		driver.manage().timeouts().implicitlyWait(5000, TimeUnit.MILLISECONDS);
+		
+	}
+	
+	@When("Click on Hamburg Menu")
+	public void click_on_Hamburg_Menu() 
+	{
+		sb = new SearchBoxLocators(driver);
+		sb.clickOnMenuBar();
+	}
+
+	@When("Verify links")
+	public void verify_links() throws InterruptedException 
+	{
+		sb = new SearchBoxLocators(driver);
+		sb.clickMenuLink();
+	}
+	
+	@When("Click on Account icon")
+	public void click_on_Account_icon() throws InterruptedException, IOException 
+	{
+		sb = new SearchBoxLocators(driver);
+		sb.clickAccount();
+		
+	 
+	}
+
+	@When("Get links and verify")
+	public void get_links_and_verify() throws InterruptedException 
+	{
+		Thread.sleep(5000);
+		List<WebElement> getlink = driver.findElements(By.xpath("//div[@data-tl-id='header-account-links']//child::a"));
+		
+		XLUtils reader = new XLUtils("./TestData/TestData.xlsx");
+		String sheetname = "sheet1";
+		int i=0;
+		for(WebElement printlink : getlink)
+		  {
+				i++;
+				String data = reader.getCellData(sheetname, 0, i);
+				String livedata = printlink.getText();
+				
+				System.out.println(printlink.getText());
+				System.out.println(data);
+				Assert.assertEquals(data, livedata);
+		  }
+		
+		
 	}
 
 }

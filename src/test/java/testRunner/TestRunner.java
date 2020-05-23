@@ -6,13 +6,17 @@ import cucumber.api.junit.Cucumber;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-		//features=".//Features//Login.feature",
+features=//"Features//Login.feature",
+		"Features//SearchBox.feature",
 		//features=".//Features//Customers.feature",
-		features=".//Features//",
+		//features=".//Features//",
+		//"Features//Customers.feature",
 		glue="stepDefinitions",
 		monochrome=true,
-		tags = {"@Sanity"},
-		plugin= {"pretty","html:test-output"}
+		//tags = {"@Sanity", "@Regression"}, //And
+		//tags={"@Sanity,@Regression"}, //Or
+		tags= {"@Regression"},
+		plugin= {"pretty","html:target/test-output"}
 		)
 public class TestRunner 
 {

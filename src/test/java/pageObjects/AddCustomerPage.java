@@ -4,6 +4,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.Select;
 
@@ -14,9 +15,10 @@ public WebDriver ldriver;
 	public AddCustomerPage(WebDriver rdriver)
 	{
 		ldriver = rdriver;
-		PageFactory.initElements(rdriver, this);
+		PageFactory.initElements(ldriver, this);
 
 	}
+	
 	
 	By lnkCustomer_menu = By.xpath("/html/body/div[3]/div[2]/div/ul/li[4]/a/span");
 	By lnkCustomer_menuitem = By.xpath("/html/body/div[3]/div[2]/div/ul/li[4]/ul/li[1]/a/span");

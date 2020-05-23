@@ -2,10 +2,6 @@ Feature: Customers
 
 @Sanity
 Scenario: Add new Customer
-	Given User Launch Chrome browser
-	When User opens URL "http://admin-demo.nopcommerce.com/login"
-	And User enters Email as "admin@yourstore.com" and Password as "admin"
-	And Click on Login
 	Then User can view Dashboard
 	When User click on customers Menu
 	And click on customers Menu Item
@@ -18,10 +14,6 @@ Scenario: Add new Customer
 
 @Regression
 Scenario: Search Customer by EmailID
-	Given User Launch Chrome browser
-	When User opens URL "http://admin-demo.nopcommerce.com/login"
-	And User enters Email as "admin@yourstore.com" and Password as "admin"
-	And Click on Login
 	Then User can view Dashboard
 	When User click on customers Menu
 	And click on customers Menu Item
@@ -32,10 +24,6 @@ Scenario: Search Customer by EmailID
 
 @Regression	
 Scenario: Search Customer by Name
-	Given User Launch Chrome browser
-	When User opens URL "http://admin-demo.nopcommerce.com/login"
-	And User enters Email as "admin@yourstore.com" and Password as "admin"
-	And Click on Login
 	Then User can view Dashboard
 	When User click on customers Menu
 	And click on customers Menu Item

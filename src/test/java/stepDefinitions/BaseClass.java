@@ -8,20 +8,23 @@ import org.openqa.selenium.WebDriver;
 
 import pageObjects.AddCustomerPage;
 import pageObjects.LoginPage;
+import pageObjects.SearchBoxLocators;
 import pageObjects.SearchCustomerPage;
 
 public class BaseClass 
 {
-	public WebDriver driver;
+	public static WebDriver driver;
 	public LoginPage lp;
 	public AddCustomerPage addCust;
 	public SearchCustomerPage searchCust;
 	public static Logger logger; 
 	public Properties configProp;
+	public SearchBoxLocators sb;
 	
 	public static String randomestring()
 	{
 		String generatedString1 = RandomStringUtils.randomAlphabetic(5);
-		return (generatedString1);
+		System.out.println(generatedString1);
+		return generatedString1;
 	}
 }

@@ -224,3 +224,822 @@
 2019-09-25 14:35:27,902  INFO [main] BDDFrameworkProject:113 - *************** Clicking Log Out ***************
 2019-09-25 14:35:32,518  INFO [main] BDDFrameworkProject:104 - *************** Login Passed ***************
 2019-09-25 14:35:35,532  INFO [main] BDDFrameworkProject:121 - *************** Closing Browser ***************
+2020-05-02 12:55:24,590  INFO [main] BDDFrameworkProject:66 - *************** Launching Browser ***************
+2020-05-02 12:55:24,650  INFO [main] BDDFrameworkProject:73 - *************** Opening ULR ***************
+2020-05-02 12:55:28,144  INFO [main] BDDFrameworkProject:81 - *************** Provide Username and Password ***************
+2020-05-02 12:55:28,591  INFO [main] BDDFrameworkProject:89 - *************** Click on Login ***************
+2020-05-02 12:55:32,073  INFO [main] BDDFrameworkProject:132 - *************** Verify Dashboard Page ***************
+2020-05-02 12:55:35,322  INFO [main] BDDFrameworkProject:140 - *************** Clicking on Main Menu ***************
+2020-05-02 12:55:38,413  INFO [main] BDDFrameworkProject:149 - *************** Clicking on Sub Menu ***************
+2020-05-02 12:55:48,633  INFO [main] BDDFrameworkProject:192 - *************** Saving Customer Deatils ***************
+2020-05-02 12:55:53,627  INFO [main] BDDFrameworkProject:121 - *************** Closing Browser ***************
+2020-05-02 12:55:58,143  INFO [main] BDDFrameworkProject:66 - *************** Launching Browser ***************
+2020-05-02 12:55:58,145  INFO [main] BDDFrameworkProject:73 - *************** Opening ULR ***************
+2020-05-02 12:56:01,576  INFO [main] BDDFrameworkProject:81 - *************** Provide Username and Password ***************
+2020-05-02 12:56:01,985  INFO [main] BDDFrameworkProject:89 - *************** Click on Login ***************
+2020-05-02 12:56:06,618  INFO [main] BDDFrameworkProject:104 - *************** Login Passed ***************
+2020-05-02 12:56:09,653  INFO [main] BDDFrameworkProject:113 - *************** Clicking Log Out ***************
+2020-05-02 12:56:13,622  INFO [main] BDDFrameworkProject:104 - *************** Login Passed ***************
+2020-05-02 12:56:16,633  INFO [main] BDDFrameworkProject:121 - *************** Closing Browser ***************
+2020-05-02 13:07:11,429  INFO [main] BDDFrameworkProject:66 - *************** Launching Browser ***************
+2020-05-02 13:07:11,467  INFO [main] BDDFrameworkProject:73 - *************** Opening ULR ***************
+2020-05-02 13:07:14,770  INFO [main] BDDFrameworkProject:81 - *************** Provide Username and Password ***************
+2020-05-02 13:07:15,190  INFO [main] BDDFrameworkProject:89 - *************** Click on Login ***************
+2020-05-02 13:07:18,893  INFO [main] BDDFrameworkProject:132 - *************** Verify Dashboard Page ***************
+2020-05-02 13:07:22,040  INFO [main] BDDFrameworkProject:140 - *************** Clicking on Main Menu ***************
+2020-05-02 13:07:25,148  INFO [main] BDDFrameworkProject:149 - *************** Clicking on Sub Menu ***************
+2020-05-02 13:07:35,626  INFO [main] BDDFrameworkProject:192 - *************** Saving Customer Deatils ***************
+2020-05-02 13:07:40,622  INFO [main] BDDFrameworkProject:121 - *************** Closing Browser ***************
+2020-05-02 13:07:44,862  INFO [main] BDDFrameworkProject:66 - *************** Launching Browser ***************
+2020-05-02 13:07:44,867  INFO [main] BDDFrameworkProject:73 - *************** Opening ULR ***************
+2020-05-02 13:07:48,406  INFO [main] BDDFrameworkProject:81 - *************** Provide Username and Password ***************
+2020-05-02 13:07:48,936  INFO [main] BDDFrameworkProject:89 - *************** Click on Login ***************
+2020-05-02 13:07:53,812  INFO [main] BDDFrameworkProject:104 - *************** Login Passed ***************
+2020-05-02 13:07:56,830  INFO [main] BDDFrameworkProject:113 - *************** Clicking Log Out ***************
+2020-05-02 13:08:01,050  INFO [main] BDDFrameworkProject:104 - *************** Login Passed ***************
+2020-05-02 13:08:04,059  INFO [main] BDDFrameworkProject:121 - *************** Closing Browser ***************
+2020-05-03 09:12:47,466  INFO [main] BDDFrameworkProject:68 - *************** Launching Browser ***************
+2020-05-03 09:12:47,499  INFO [main] BDDFrameworkProject:75 - *************** Opening ULR ***************
+2020-05-03 09:12:51,016  INFO [main] BDDFrameworkProject:83 - *************** Provide Username and Password ***************
+2020-05-03 09:12:51,407  INFO [main] BDDFrameworkProject:91 - *************** Click on Login ***************
+2020-05-03 09:12:55,097  INFO [main] BDDFrameworkProject:106 - *************** Login Passed ***************
+2020-05-03 09:12:58,186  INFO [main] BDDFrameworkProject:115 - *************** Clicking Log Out ***************
+2020-05-03 09:13:02,134  INFO [main] BDDFrameworkProject:106 - *************** Login Passed ***************
+2020-05-03 09:13:05,172  INFO [main] BDDFrameworkProject:123 - *************** Closing Browser ***************
+2020-05-03 09:26:21,776  INFO [main] BDDFrameworkProject:68 - *************** Launching Browser ***************
+2020-05-03 09:26:21,845  INFO [main] BDDFrameworkProject:75 - *************** Opening ULR ***************
+2020-05-03 09:26:25,339  INFO [main] BDDFrameworkProject:83 - *************** Provide Username and Password ***************
+2020-05-03 09:26:25,718  INFO [main] BDDFrameworkProject:91 - *************** Click on Login ***************
+2020-05-03 09:26:29,726  INFO [main] BDDFrameworkProject:106 - *************** Login Passed ***************
+2020-05-03 09:26:32,797  INFO [main] BDDFrameworkProject:115 - *************** Clicking Log Out ***************
+2020-05-03 09:26:37,060  INFO [main] BDDFrameworkProject:106 - *************** Login Passed ***************
+2020-05-03 09:26:40,078  INFO [main] BDDFrameworkProject:123 - *************** Closing Browser ***************
+2020-05-03 09:28:25,331  INFO [main] BDDFrameworkProject:68 - *************** Launching Browser ***************
+2020-05-03 09:28:25,365  INFO [main] BDDFrameworkProject:75 - *************** Opening ULR ***************
+2020-05-03 09:28:28,874  INFO [main] BDDFrameworkProject:123 - *************** Closing Browser ***************
+2020-05-03 09:30:10,803  INFO [main] BDDFrameworkProject:68 - *************** Launching Browser ***************
+2020-05-03 09:30:10,853  INFO [main] BDDFrameworkProject:75 - *************** Opening ULR ***************
+2020-05-03 09:30:14,231  INFO [main] BDDFrameworkProject:123 - *************** Closing Browser ***************
+2020-05-03 09:37:10,123  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-03 09:37:10,165  INFO [main] BDDFrameworkProject:76 - *************** Opening ULR ***************
+2020-05-03 09:37:13,573  INFO [main] BDDFrameworkProject:124 - *************** Closing Browser ***************
+2020-05-03 09:38:38,485  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-03 09:38:38,540  INFO [main] BDDFrameworkProject:76 - *************** Opening ULR ***************
+2020-05-03 09:40:06,333  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-03 09:40:06,394  INFO [main] BDDFrameworkProject:76 - *************** Opening ULR ***************
+2020-05-03 09:40:09,860  INFO [main] BDDFrameworkProject:124 - *************** Closing Browser ***************
+2020-05-03 09:44:52,284  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-03 09:44:52,330  INFO [main] BDDFrameworkProject:76 - *************** Opening ULR ***************
+2020-05-03 09:44:55,767  INFO [main] BDDFrameworkProject:124 - *************** Closing Browser ***************
+2020-05-03 09:46:40,855  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-03 09:46:40,891  INFO [main] BDDFrameworkProject:76 - *************** Opening ULR ***************
+2020-05-03 09:46:44,331  INFO [main] BDDFrameworkProject:124 - *************** Closing Browser ***************
+2020-05-03 09:46:48,634  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-03 09:46:48,639  INFO [main] BDDFrameworkProject:76 - *************** Opening ULR ***************
+2020-05-03 09:46:52,065  INFO [main] BDDFrameworkProject:84 - *************** Provide Username and Password ***************
+2020-05-03 09:46:52,522  INFO [main] BDDFrameworkProject:92 - *************** Click on Login ***************
+2020-05-03 09:46:56,159  INFO [main] BDDFrameworkProject:107 - *************** Login Passed ***************
+2020-05-03 09:46:59,177  INFO [main] BDDFrameworkProject:116 - *************** Clicking Log Out ***************
+2020-05-03 09:47:13,695  INFO [main] BDDFrameworkProject:107 - *************** Login Passed ***************
+2020-05-03 09:47:16,718  INFO [main] BDDFrameworkProject:124 - *************** Closing Browser ***************
+2020-05-03 09:47:21,137  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-03 09:47:21,143  INFO [main] BDDFrameworkProject:76 - *************** Opening ULR ***************
+2020-05-03 09:47:24,535  INFO [main] BDDFrameworkProject:84 - *************** Provide Username and Password ***************
+2020-05-03 09:47:24,931  INFO [main] BDDFrameworkProject:92 - *************** Click on Login ***************
+2020-05-03 09:47:29,001  INFO [main] BDDFrameworkProject:107 - *************** Login Passed ***************
+2020-05-03 09:47:32,035  INFO [main] BDDFrameworkProject:116 - *************** Clicking Log Out ***************
+2020-05-03 09:47:36,431  INFO [main] BDDFrameworkProject:107 - *************** Login Passed ***************
+2020-05-03 09:47:39,446  INFO [main] BDDFrameworkProject:124 - *************** Closing Browser ***************
+2020-05-03 09:47:43,994  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-03 09:47:43,998  INFO [main] BDDFrameworkProject:76 - *************** Opening ULR ***************
+2020-05-03 09:47:47,502  INFO [main] BDDFrameworkProject:84 - *************** Provide Username and Password ***************
+2020-05-03 09:47:47,930  INFO [main] BDDFrameworkProject:92 - *************** Click on Login ***************
+2020-05-03 09:47:48,622  INFO [main] BDDFrameworkProject:101 - *************** Login Failed ***************
+2020-05-03 09:48:50,382  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-03 09:48:50,429  INFO [main] BDDFrameworkProject:76 - *************** Opening ULR ***************
+2020-05-03 09:48:53,832  INFO [main] BDDFrameworkProject:84 - *************** Provide Username and Password ***************
+2020-05-03 09:48:54,276  INFO [main] BDDFrameworkProject:92 - *************** Click on Login ***************
+2020-05-03 09:48:58,206  INFO [main] BDDFrameworkProject:107 - *************** Login Passed ***************
+2020-05-03 09:49:01,255  INFO [main] BDDFrameworkProject:116 - *************** Clicking Log Out ***************
+2020-05-03 09:49:05,541  INFO [main] BDDFrameworkProject:107 - *************** Login Passed ***************
+2020-05-03 09:49:08,558  INFO [main] BDDFrameworkProject:124 - *************** Closing Browser ***************
+2020-05-03 09:56:26,850  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-03 09:56:26,893  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-03 09:56:26,896  INFO [main] BDDFrameworkProject:76 - *************** Opening ULR ***************
+2020-05-03 09:56:30,271  INFO [main] BDDFrameworkProject:84 - *************** Provide Username and Password ***************
+2020-05-03 09:56:30,647  INFO [main] BDDFrameworkProject:92 - *************** Click on Login ***************
+2020-05-03 09:56:34,645  INFO [main] BDDFrameworkProject:124 - *************** Closing Browser ***************
+2020-05-03 09:56:39,066  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-03 09:56:39,071  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-03 09:56:39,084  INFO [main] BDDFrameworkProject:76 - *************** Opening ULR ***************
+2020-05-03 09:56:42,527  INFO [main] BDDFrameworkProject:84 - *************** Provide Username and Password ***************
+2020-05-03 09:56:42,922  INFO [main] BDDFrameworkProject:92 - *************** Click on Login ***************
+2020-05-03 09:56:46,101  INFO [main] BDDFrameworkProject:107 - *************** Login Passed ***************
+2020-05-03 09:56:49,138  INFO [main] BDDFrameworkProject:116 - *************** Clicking Log Out ***************
+2020-05-03 09:56:53,196  INFO [main] BDDFrameworkProject:107 - *************** Login Passed ***************
+2020-05-03 09:56:56,232  INFO [main] BDDFrameworkProject:124 - *************** Closing Browser ***************
+2020-05-03 09:57:00,716  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-03 09:57:00,719  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-03 09:57:00,724  INFO [main] BDDFrameworkProject:76 - *************** Opening ULR ***************
+2020-05-03 09:57:04,160  INFO [main] BDDFrameworkProject:84 - *************** Provide Username and Password ***************
+2020-05-03 09:57:04,660  INFO [main] BDDFrameworkProject:92 - *************** Click on Login ***************
+2020-05-03 09:57:08,122  INFO [main] BDDFrameworkProject:107 - *************** Login Passed ***************
+2020-05-03 09:57:11,199  INFO [main] BDDFrameworkProject:116 - *************** Clicking Log Out ***************
+2020-05-03 09:57:15,615  INFO [main] BDDFrameworkProject:107 - *************** Login Passed ***************
+2020-05-03 09:57:18,638  INFO [main] BDDFrameworkProject:124 - *************** Closing Browser ***************
+2020-05-03 09:57:23,081  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-03 09:57:23,088  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-03 09:57:23,093  INFO [main] BDDFrameworkProject:76 - *************** Opening ULR ***************
+2020-05-03 09:57:26,529  INFO [main] BDDFrameworkProject:84 - *************** Provide Username and Password ***************
+2020-05-03 09:57:26,990  INFO [main] BDDFrameworkProject:92 - *************** Click on Login ***************
+2020-05-03 09:57:31,233  INFO [main] BDDFrameworkProject:107 - *************** Login Passed ***************
+2020-05-03 09:57:34,253  INFO [main] BDDFrameworkProject:116 - *************** Clicking Log Out ***************
+2020-05-03 09:57:38,303  INFO [main] BDDFrameworkProject:107 - *************** Login Passed ***************
+2020-05-03 09:57:41,323  INFO [main] BDDFrameworkProject:124 - *************** Closing Browser ***************
+2020-05-09 09:11:29,330  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-09 09:11:29,407  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-09 09:11:29,419  INFO [main] BDDFrameworkProject:76 - *************** Opening ULR ***************
+2020-05-09 09:11:32,868  INFO [main] BDDFrameworkProject:84 - *************** Provide Username and Password ***************
+2020-05-09 09:11:33,295  INFO [main] BDDFrameworkProject:92 - *************** Click on Login ***************
+2020-05-09 09:11:36,950  INFO [main] BDDFrameworkProject:124 - *************** Closing Browser ***************
+2020-05-09 09:11:41,415  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-09 09:11:41,418  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-09 09:11:41,422  INFO [main] BDDFrameworkProject:76 - *************** Opening ULR ***************
+2020-05-09 09:11:44,798  INFO [main] BDDFrameworkProject:84 - *************** Provide Username and Password ***************
+2020-05-09 09:11:45,198  INFO [main] BDDFrameworkProject:92 - *************** Click on Login ***************
+2020-05-09 09:11:49,247  INFO [main] BDDFrameworkProject:107 - *************** Login Passed ***************
+2020-05-09 09:11:52,328  INFO [main] BDDFrameworkProject:116 - *************** Clicking Log Out ***************
+2020-05-09 09:11:56,922  INFO [main] BDDFrameworkProject:107 - *************** Login Passed ***************
+2020-05-09 09:11:59,950  INFO [main] BDDFrameworkProject:124 - *************** Closing Browser ***************
+2020-05-09 09:12:20,613  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-09 09:12:20,657  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-09 09:12:20,660  INFO [main] BDDFrameworkProject:76 - *************** Opening ULR ***************
+2020-05-09 09:12:24,006  INFO [main] BDDFrameworkProject:84 - *************** Provide Username and Password ***************
+2020-05-09 09:12:24,455  INFO [main] BDDFrameworkProject:92 - *************** Click on Login ***************
+2020-05-09 09:12:28,041  INFO [main] BDDFrameworkProject:124 - *************** Closing Browser ***************
+2020-05-09 09:12:32,293  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-09 09:12:32,295  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-09 09:12:32,300  INFO [main] BDDFrameworkProject:76 - *************** Opening ULR ***************
+2020-05-09 09:12:35,724  INFO [main] BDDFrameworkProject:84 - *************** Provide Username and Password ***************
+2020-05-09 09:12:36,195  INFO [main] BDDFrameworkProject:92 - *************** Click on Login ***************
+2020-05-09 09:12:40,169  INFO [main] BDDFrameworkProject:107 - *************** Login Passed ***************
+2020-05-09 09:12:43,233  INFO [main] BDDFrameworkProject:116 - *************** Clicking Log Out ***************
+2020-05-09 09:12:47,349  INFO [main] BDDFrameworkProject:107 - *************** Login Passed ***************
+2020-05-09 09:12:50,364  INFO [main] BDDFrameworkProject:124 - *************** Closing Browser ***************
+2020-05-09 09:12:54,650  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-09 09:12:54,657  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-09 09:12:54,661  INFO [main] BDDFrameworkProject:76 - *************** Opening ULR ***************
+2020-05-09 09:12:58,063  INFO [main] BDDFrameworkProject:84 - *************** Provide Username and Password ***************
+2020-05-09 09:12:58,454  INFO [main] BDDFrameworkProject:92 - *************** Click on Login ***************
+2020-05-09 09:13:02,653  INFO [main] BDDFrameworkProject:107 - *************** Login Passed ***************
+2020-05-09 09:13:05,755  INFO [main] BDDFrameworkProject:116 - *************** Clicking Log Out ***************
+2020-05-09 09:13:10,046  INFO [main] BDDFrameworkProject:107 - *************** Login Passed ***************
+2020-05-09 09:13:13,062  INFO [main] BDDFrameworkProject:124 - *************** Closing Browser ***************
+2020-05-09 09:13:17,432  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-09 09:13:17,437  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-09 09:13:17,443  INFO [main] BDDFrameworkProject:76 - *************** Opening ULR ***************
+2020-05-09 09:13:20,733  INFO [main] BDDFrameworkProject:84 - *************** Provide Username and Password ***************
+2020-05-09 09:13:21,197  INFO [main] BDDFrameworkProject:92 - *************** Click on Login ***************
+2020-05-09 09:13:25,101  INFO [main] BDDFrameworkProject:107 - *************** Login Passed ***************
+2020-05-09 09:13:28,121  INFO [main] BDDFrameworkProject:116 - *************** Clicking Log Out ***************
+2020-05-09 09:13:32,465  INFO [main] BDDFrameworkProject:107 - *************** Login Passed ***************
+2020-05-09 09:13:35,477  INFO [main] BDDFrameworkProject:124 - *************** Closing Browser ***************
+2020-05-09 09:18:05,304  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-09 09:18:05,335  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-09 09:18:05,338  INFO [main] BDDFrameworkProject:76 - *************** Opening ULR ***************
+2020-05-09 09:18:08,741  INFO [main] BDDFrameworkProject:84 - *************** Provide Username and Password ***************
+2020-05-09 09:18:09,182  INFO [main] BDDFrameworkProject:92 - *************** Click on Login ***************
+2020-05-09 09:18:12,990  INFO [main] BDDFrameworkProject:124 - *************** Closing Browser ***************
+2020-05-09 09:18:17,253  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-09 09:18:17,255  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-09 09:18:17,258  INFO [main] BDDFrameworkProject:76 - *************** Opening ULR ***************
+2020-05-09 09:18:20,571  INFO [main] BDDFrameworkProject:84 - *************** Provide Username and Password ***************
+2020-05-09 09:18:20,960  INFO [main] BDDFrameworkProject:92 - *************** Click on Login ***************
+2020-05-09 09:18:24,269  INFO [main] BDDFrameworkProject:107 - *************** Login Passed ***************
+2020-05-09 09:18:27,449  INFO [main] BDDFrameworkProject:116 - *************** Clicking Log Out ***************
+2020-05-09 09:18:31,568  INFO [main] BDDFrameworkProject:107 - *************** Login Passed ***************
+2020-05-09 09:18:34,625  INFO [main] BDDFrameworkProject:124 - *************** Closing Browser ***************
+2020-05-09 09:18:38,958  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-09 09:18:38,965  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-09 09:18:38,969  INFO [main] BDDFrameworkProject:76 - *************** Opening ULR ***************
+2020-05-09 09:18:42,463  INFO [main] BDDFrameworkProject:84 - *************** Provide Username and Password ***************
+2020-05-09 09:18:42,976  INFO [main] BDDFrameworkProject:92 - *************** Click on Login ***************
+2020-05-09 09:18:46,893  INFO [main] BDDFrameworkProject:107 - *************** Login Passed ***************
+2020-05-09 09:18:49,939  INFO [main] BDDFrameworkProject:116 - *************** Clicking Log Out ***************
+2020-05-09 09:18:54,121  INFO [main] BDDFrameworkProject:107 - *************** Login Passed ***************
+2020-05-09 09:18:57,141  INFO [main] BDDFrameworkProject:124 - *************** Closing Browser ***************
+2020-05-09 09:19:01,421  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-09 09:19:01,424  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-09 09:19:01,428  INFO [main] BDDFrameworkProject:76 - *************** Opening ULR ***************
+2020-05-09 09:19:04,831  INFO [main] BDDFrameworkProject:84 - *************** Provide Username and Password ***************
+2020-05-09 09:19:05,299  INFO [main] BDDFrameworkProject:92 - *************** Click on Login ***************
+2020-05-09 09:19:08,778  INFO [main] BDDFrameworkProject:107 - *************** Login Passed ***************
+2020-05-09 09:19:11,798  INFO [main] BDDFrameworkProject:116 - *************** Clicking Log Out ***************
+2020-05-09 09:19:15,820  INFO [main] BDDFrameworkProject:107 - *************** Login Passed ***************
+2020-05-09 09:19:18,836  INFO [main] BDDFrameworkProject:124 - *************** Closing Browser ***************
+2020-05-09 09:29:12,566  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-09 09:29:12,611  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-09 09:29:12,618  INFO [main] BDDFrameworkProject:76 - *************** Opening ULR ***************
+2020-05-09 09:29:16,840  INFO [main] BDDFrameworkProject:84 - *************** Provide Username and Password ***************
+2020-05-09 09:29:17,351  INFO [main] BDDFrameworkProject:92 - *************** Click on Login ***************
+2020-05-09 09:29:21,141  INFO [main] BDDFrameworkProject:124 - *************** Closing Browser ***************
+2020-05-09 09:29:25,483  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-09 09:29:25,490  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-09 09:29:25,501  INFO [main] BDDFrameworkProject:76 - *************** Opening ULR ***************
+2020-05-09 09:29:32,487  INFO [main] BDDFrameworkProject:84 - *************** Provide Username and Password ***************
+2020-05-09 09:29:33,109  INFO [main] BDDFrameworkProject:92 - *************** Click on Login ***************
+2020-05-09 09:29:36,616  INFO [main] BDDFrameworkProject:107 - *************** Login Passed ***************
+2020-05-09 09:29:39,730  INFO [main] BDDFrameworkProject:116 - *************** Clicking Log Out ***************
+2020-05-09 09:29:48,058  INFO [main] BDDFrameworkProject:107 - *************** Login Passed ***************
+2020-05-09 09:29:51,090  INFO [main] BDDFrameworkProject:124 - *************** Closing Browser ***************
+2020-05-09 09:29:55,446  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-09 09:29:55,455  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-09 09:29:55,461  INFO [main] BDDFrameworkProject:76 - *************** Opening ULR ***************
+2020-05-09 09:29:58,857  INFO [main] BDDFrameworkProject:84 - *************** Provide Username and Password ***************
+2020-05-09 09:29:59,237  INFO [main] BDDFrameworkProject:92 - *************** Click on Login ***************
+2020-05-09 09:30:03,462  INFO [main] BDDFrameworkProject:107 - *************** Login Passed ***************
+2020-05-09 09:30:06,500  INFO [main] BDDFrameworkProject:116 - *************** Clicking Log Out ***************
+2020-05-09 09:30:11,112  INFO [main] BDDFrameworkProject:107 - *************** Login Passed ***************
+2020-05-09 09:30:14,128  INFO [main] BDDFrameworkProject:124 - *************** Closing Browser ***************
+2020-05-09 09:30:18,484  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-09 09:30:18,486  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-09 09:30:18,488  INFO [main] BDDFrameworkProject:76 - *************** Opening ULR ***************
+2020-05-09 09:30:21,961  INFO [main] BDDFrameworkProject:84 - *************** Provide Username and Password ***************
+2020-05-09 09:30:22,391  INFO [main] BDDFrameworkProject:92 - *************** Click on Login ***************
+2020-05-09 09:30:26,019  INFO [main] BDDFrameworkProject:107 - *************** Login Passed ***************
+2020-05-09 09:30:29,037  INFO [main] BDDFrameworkProject:116 - *************** Clicking Log Out ***************
+2020-05-09 09:30:33,105  INFO [main] BDDFrameworkProject:107 - *************** Login Passed ***************
+2020-05-09 09:30:36,122  INFO [main] BDDFrameworkProject:124 - *************** Closing Browser ***************
+2020-05-09 09:32:05,184  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-09 09:32:05,237  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-09 09:32:05,244  INFO [main] BDDFrameworkProject:76 - *************** Opening ULR ***************
+2020-05-09 09:32:08,682  INFO [main] BDDFrameworkProject:84 - *************** Provide Username and Password ***************
+2020-05-09 09:32:09,083  INFO [main] BDDFrameworkProject:92 - *************** Click on Login ***************
+2020-05-09 09:32:12,534  INFO [main] BDDFrameworkProject:124 - *************** Closing Browser ***************
+2020-05-09 09:32:17,688  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-09 09:32:17,690  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-09 09:32:17,693  INFO [main] BDDFrameworkProject:76 - *************** Opening ULR ***************
+2020-05-09 09:32:21,039  INFO [main] BDDFrameworkProject:84 - *************** Provide Username and Password ***************
+2020-05-09 09:32:21,467  INFO [main] BDDFrameworkProject:92 - *************** Click on Login ***************
+2020-05-09 09:32:25,068  INFO [main] BDDFrameworkProject:107 - *************** Login Passed ***************
+2020-05-09 09:32:28,126  INFO [main] BDDFrameworkProject:116 - *************** Clicking Log Out ***************
+2020-05-09 09:32:32,513  INFO [main] BDDFrameworkProject:107 - *************** Login Passed ***************
+2020-05-09 09:32:35,532  INFO [main] BDDFrameworkProject:124 - *************** Closing Browser ***************
+2020-05-09 09:32:39,883  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-09 09:32:39,885  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-09 09:32:39,888  INFO [main] BDDFrameworkProject:76 - *************** Opening ULR ***************
+2020-05-09 09:32:43,239  INFO [main] BDDFrameworkProject:84 - *************** Provide Username and Password ***************
+2020-05-09 09:32:43,642  INFO [main] BDDFrameworkProject:92 - *************** Click on Login ***************
+2020-05-09 09:32:47,172  INFO [main] BDDFrameworkProject:107 - *************** Login Passed ***************
+2020-05-09 09:32:50,306  INFO [main] BDDFrameworkProject:116 - *************** Clicking Log Out ***************
+2020-05-09 09:32:54,668  INFO [main] BDDFrameworkProject:107 - *************** Login Passed ***************
+2020-05-09 09:32:57,689  INFO [main] BDDFrameworkProject:124 - *************** Closing Browser ***************
+2020-05-09 09:33:02,061  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-09 09:33:02,068  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-09 09:33:02,073  INFO [main] BDDFrameworkProject:76 - *************** Opening ULR ***************
+2020-05-09 09:33:05,461  INFO [main] BDDFrameworkProject:84 - *************** Provide Username and Password ***************
+2020-05-09 09:33:05,819  INFO [main] BDDFrameworkProject:92 - *************** Click on Login ***************
+2020-05-09 09:33:09,865  INFO [main] BDDFrameworkProject:107 - *************** Login Passed ***************
+2020-05-09 09:33:12,888  INFO [main] BDDFrameworkProject:116 - *************** Clicking Log Out ***************
+2020-05-09 09:33:17,476  INFO [main] BDDFrameworkProject:107 - *************** Login Passed ***************
+2020-05-09 09:33:20,491  INFO [main] BDDFrameworkProject:124 - *************** Closing Browser ***************
+2020-05-09 10:56:06,690  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-09 10:56:06,747  INFO [main] BDDFrameworkProject:76 - *************** Opening ULR ***************
+2020-05-09 11:06:38,838  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-09 11:06:38,871  INFO [main] BDDFrameworkProject:76 - *************** Opening ULR ***************
+2020-05-09 11:12:49,398  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-09 11:12:49,467  INFO [main] BDDFrameworkProject:76 - *************** Opening ULR ***************
+2020-05-09 11:15:25,909  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-09 11:15:25,959  INFO [main] BDDFrameworkProject:76 - *************** Opening ULR ***************
+2020-05-09 11:18:41,383  INFO [main] BDDFrameworkProject:69 - *************** Launching Browser ***************
+2020-05-09 11:18:41,424  INFO [main] BDDFrameworkProject:76 - *************** Opening ULR ***************
+2020-05-09 11:21:59,554  INFO [main] BDDFrameworkProject:70 - *************** Launching Browser ***************
+2020-05-09 11:21:59,590  INFO [main] BDDFrameworkProject:77 - *************** Opening ULR ***************
+2020-05-09 11:22:11,316  INFO [main] BDDFrameworkProject:125 - *************** Closing Browser ***************
+2020-05-09 21:55:45,140  INFO [main] BDDFrameworkProject:77 - *************** Opening ULR ***************
+2020-05-09 21:55:48,456  INFO [main] BDDFrameworkProject:85 - *************** Provide Username and Password ***************
+2020-05-09 21:55:51,953  INFO [main] BDDFrameworkProject:70 - *************** Launching Browser ***************
+2020-05-09 21:55:52,028  INFO [main] BDDFrameworkProject:77 - *************** Opening ULR ***************
+2020-05-09 21:55:55,277  INFO [main] BDDFrameworkProject:85 - *************** Provide Username and Password ***************
+2020-05-09 21:55:55,638  INFO [main] BDDFrameworkProject:93 - *************** Click on Login ***************
+2020-05-09 21:55:58,754  INFO [main] BDDFrameworkProject:136 - *************** Verify Dashboard Page ***************
+2020-05-09 21:56:01,770  INFO [main] BDDFrameworkProject:144 - *************** Clicking on Main Menu ***************
+2020-05-09 21:56:04,849  INFO [main] BDDFrameworkProject:153 - *************** Clicking on Sub Menu ***************
+2020-05-09 21:56:12,672  INFO [main] BDDFrameworkProject:215 - *************** Searching Customer Deatail By Email ***************
+2020-05-09 21:56:16,335  INFO [main] BDDFrameworkProject:125 - *************** Closing Browser ***************
+2020-05-09 21:56:20,445  INFO [main] BDDFrameworkProject:70 - *************** Launching Browser ***************
+2020-05-09 21:56:20,447  INFO [main] BDDFrameworkProject:77 - *************** Opening ULR ***************
+2020-05-09 21:56:23,722  INFO [main] BDDFrameworkProject:85 - *************** Provide Username and Password ***************
+2020-05-09 21:56:24,029  INFO [main] BDDFrameworkProject:93 - *************** Click on Login ***************
+2020-05-09 21:56:27,628  INFO [main] BDDFrameworkProject:136 - *************** Verify Dashboard Page ***************
+2020-05-09 21:56:30,670  INFO [main] BDDFrameworkProject:144 - *************** Clicking on Main Menu ***************
+2020-05-09 21:56:33,841  INFO [main] BDDFrameworkProject:153 - *************** Clicking on Sub Menu ***************
+2020-05-09 21:56:38,018  INFO [main] BDDFrameworkProject:239 - *************** Searching Customer Deatail By Name ***************
+2020-05-09 21:56:44,799  INFO [main] BDDFrameworkProject:125 - *************** Closing Browser ***************
+2020-05-09 23:06:23,561  INFO [main] BDDFrameworkProject:136 - *************** Verify Dashboard Page ***************
+2020-05-09 23:06:34,929  INFO [main] BDDFrameworkProject:136 - *************** Verify Dashboard Page ***************
+2020-05-09 23:06:46,567  INFO [main] BDDFrameworkProject:136 - *************** Verify Dashboard Page ***************
+2020-05-09 23:10:42,996  INFO [main] BDDFrameworkProject:136 - *************** Verify Dashboard Page ***************
+2020-05-09 23:10:54,902  INFO [main] BDDFrameworkProject:136 - *************** Verify Dashboard Page ***************
+2020-05-09 23:11:06,269  INFO [main] BDDFrameworkProject:136 - *************** Verify Dashboard Page ***************
+2020-05-09 23:13:54,845  INFO [main] BDDFrameworkProject:136 - *************** Verify Dashboard Page ***************
+2020-05-09 23:14:06,695  INFO [main] BDDFrameworkProject:136 - *************** Verify Dashboard Page ***************
+2020-05-10 09:46:48,171  INFO [main] BDDFrameworkProject:136 - *************** Verify Dashboard Page ***************
+2020-05-10 09:46:59,884  INFO [main] BDDFrameworkProject:136 - *************** Verify Dashboard Page ***************
+2020-05-10 09:54:35,293  INFO [main] BDDFrameworkProject:136 - *************** Verify Dashboard Page ***************
+2020-05-10 09:54:44,288  INFO [main] BDDFrameworkProject:136 - *************** Verify Dashboard Page ***************
+2020-05-10 09:57:05,527  INFO [main] BDDFrameworkProject:136 - *************** Verify Dashboard Page ***************
+2020-05-10 09:57:15,391  INFO [main] BDDFrameworkProject:136 - *************** Verify Dashboard Page ***************
+2020-05-10 09:59:50,628  INFO [main] BDDFrameworkProject:137 - *************** Verify Dashboard Page ***************
+2020-05-10 09:59:53,768  INFO [main] BDDFrameworkProject:145 - *************** Clicking on Main Menu ***************
+2020-05-10 09:59:56,888  INFO [main] BDDFrameworkProject:154 - *************** Clicking on Sub Menu ***************
+2020-05-10 10:00:02,900  INFO [main] BDDFrameworkProject:216 - *************** Searching Customer Deatail By Email ***************
+2020-05-10 10:00:06,414  INFO [main] BDDFrameworkProject:126 - *************** Closing Browser ***************
+2020-05-10 10:00:15,227  INFO [main] BDDFrameworkProject:137 - *************** Verify Dashboard Page ***************
+2020-05-10 10:00:18,244  INFO [main] BDDFrameworkProject:145 - *************** Clicking on Main Menu ***************
+2020-05-10 10:00:21,338  INFO [main] BDDFrameworkProject:154 - *************** Clicking on Sub Menu ***************
+2020-05-10 10:00:25,726  INFO [main] BDDFrameworkProject:240 - *************** Searching Customer Deatail By Name ***************
+2020-05-10 10:00:32,133  INFO [main] BDDFrameworkProject:126 - *************** Closing Browser ***************
+2020-05-10 10:05:15,730  INFO [main] BDDFrameworkProject:137 - *************** Verify Dashboard Page ***************
+2020-05-10 10:05:18,867  INFO [main] BDDFrameworkProject:145 - *************** Clicking on Main Menu ***************
+2020-05-10 10:05:21,968  INFO [main] BDDFrameworkProject:154 - *************** Clicking on Sub Menu ***************
+2020-05-10 10:05:27,928  INFO [main] BDDFrameworkProject:216 - *************** Searching Customer Deatail By Email ***************
+2020-05-10 10:05:31,572  INFO [main] BDDFrameworkProject:126 - *************** Closing Browser ***************
+2020-05-10 10:05:41,109  INFO [main] BDDFrameworkProject:137 - *************** Verify Dashboard Page ***************
+2020-05-10 10:05:44,235  INFO [main] BDDFrameworkProject:145 - *************** Clicking on Main Menu ***************
+2020-05-10 10:05:47,334  INFO [main] BDDFrameworkProject:154 - *************** Clicking on Sub Menu ***************
+2020-05-10 10:05:51,350  INFO [main] BDDFrameworkProject:240 - *************** Searching Customer Deatail By Name ***************
+2020-05-10 10:05:57,772  INFO [main] BDDFrameworkProject:126 - *************** Closing Browser ***************
+2020-05-10 10:25:08,930  INFO [main] BDDFrameworkProject:71 - *************** Launching Browser ***************
+2020-05-10 10:25:08,938  INFO [main] BDDFrameworkProject:78 - *************** Opening ULR ***************
+2020-05-10 10:25:19,557  INFO [main] BDDFrameworkProject:126 - *************** Closing Browser ***************
+2020-05-10 10:39:11,029  INFO [main] BDDFrameworkProject:71 - *************** Launching Browser ***************
+2020-05-10 10:39:11,039  INFO [main] BDDFrameworkProject:78 - *************** Opening ULR ***************
+2020-05-10 10:39:22,201  INFO [main] BDDFrameworkProject:126 - *************** Closing Browser ***************
+2020-05-10 10:41:32,528  INFO [main] BDDFrameworkProject:71 - *************** Launching Browser ***************
+2020-05-10 10:41:32,585  INFO [main] BDDFrameworkProject:78 - *************** Opening ULR ***************
+2020-05-10 10:41:43,440  INFO [main] BDDFrameworkProject:126 - *************** Closing Browser ***************
+2020-05-10 10:48:23,709  INFO [main] BDDFrameworkProject:71 - *************** Launching Browser ***************
+2020-05-10 10:48:23,779  INFO [main] BDDFrameworkProject:78 - *************** Opening ULR ***************
+2020-05-10 10:55:18,423  INFO [main] BDDFrameworkProject:71 - *************** Launching Browser ***************
+2020-05-10 10:55:18,478  INFO [main] BDDFrameworkProject:78 - *************** Opening ULR ***************
+2020-05-10 10:58:06,658  INFO [main] BDDFrameworkProject:71 - *************** Launching Browser ***************
+2020-05-10 10:58:06,725  INFO [main] BDDFrameworkProject:78 - *************** Opening ULR ***************
+2020-05-10 10:59:44,871  INFO [main] BDDFrameworkProject:71 - *************** Launching Browser ***************
+2020-05-10 10:59:44,937  INFO [main] BDDFrameworkProject:78 - *************** Opening ULR ***************
+2020-05-10 10:59:59,629  INFO [main] BDDFrameworkProject:126 - *************** Closing Browser ***************
+2020-05-12 15:57:12,744  INFO [main] BDDFrameworkProject:71 - *************** Launching Browser ***************
+2020-05-12 15:57:12,785  INFO [main] BDDFrameworkProject:78 - *************** Opening ULR ***************
+2020-05-12 16:08:12,006  INFO [main] BDDFrameworkProject:72 - *************** Launching Browser ***************
+2020-05-12 16:08:12,045  INFO [main] BDDFrameworkProject:79 - *************** Opening ULR ***************
+2020-05-12 16:08:26,375  INFO [main] BDDFrameworkProject:127 - *************** Closing Browser ***************
+2020-05-12 16:11:52,176  INFO [main] BDDFrameworkProject:72 - *************** Launching Browser ***************
+2020-05-12 16:11:52,209  INFO [main] BDDFrameworkProject:79 - *************** Opening ULR ***************
+2020-05-12 16:13:09,255  INFO [main] BDDFrameworkProject:72 - *************** Launching Browser ***************
+2020-05-12 16:13:09,311  INFO [main] BDDFrameworkProject:79 - *************** Opening ULR ***************
+2020-05-12 16:13:16,996  INFO [main] BDDFrameworkProject:127 - *************** Closing Browser ***************
+2020-05-12 16:14:55,500  INFO [main] BDDFrameworkProject:72 - *************** Launching Browser ***************
+2020-05-12 16:14:55,554  INFO [main] BDDFrameworkProject:79 - *************** Opening ULR ***************
+2020-05-12 16:15:04,036  INFO [main] BDDFrameworkProject:127 - *************** Closing Browser ***************
+2020-05-12 16:18:46,850  INFO [main] BDDFrameworkProject:74 - *************** Launching Browser ***************
+2020-05-12 16:18:46,888  INFO [main] BDDFrameworkProject:81 - *************** Opening ULR ***************
+2020-05-12 16:18:51,795  INFO [main] BDDFrameworkProject:129 - *************** Closing Browser ***************
+2020-05-12 16:20:10,357  INFO [main] BDDFrameworkProject:74 - *************** Launching Browser ***************
+2020-05-12 16:20:10,403  INFO [main] BDDFrameworkProject:81 - *************** Opening ULR ***************
+2020-05-12 16:20:16,027  INFO [main] BDDFrameworkProject:129 - *************** Closing Browser ***************
+2020-05-12 16:21:22,969  INFO [main] BDDFrameworkProject:74 - *************** Launching Browser ***************
+2020-05-12 16:21:23,029  INFO [main] BDDFrameworkProject:81 - *************** Opening ULR ***************
+2020-05-12 16:21:28,645  INFO [main] BDDFrameworkProject:129 - *************** Closing Browser ***************
+2020-05-12 16:22:49,632  INFO [main] BDDFrameworkProject:74 - *************** Launching Browser ***************
+2020-05-12 16:22:49,672  INFO [main] BDDFrameworkProject:81 - *************** Opening ULR ***************
+2020-05-12 16:22:56,257  INFO [main] BDDFrameworkProject:129 - *************** Closing Browser ***************
+2020-05-12 16:24:01,093  INFO [main] BDDFrameworkProject:74 - *************** Launching Browser ***************
+2020-05-12 16:24:01,128  INFO [main] BDDFrameworkProject:81 - *************** Opening ULR ***************
+2020-05-12 16:24:06,339  INFO [main] BDDFrameworkProject:129 - *************** Closing Browser ***************
+2020-05-12 16:37:06,067  INFO [main] BDDFrameworkProject:74 - *************** Launching Browser ***************
+2020-05-12 16:37:06,110  INFO [main] BDDFrameworkProject:81 - *************** Opening ULR ***************
+2020-05-12 16:37:13,172  INFO [main] BDDFrameworkProject:129 - *************** Closing Browser ***************
+2020-05-12 16:41:32,900  INFO [main] BDDFrameworkProject:74 - *************** Launching Browser ***************
+2020-05-12 16:41:32,931  INFO [main] BDDFrameworkProject:81 - *************** Opening ULR ***************
+2020-05-12 16:41:38,237  INFO [main] BDDFrameworkProject:129 - *************** Closing Browser ***************
+2020-05-12 16:42:12,221  INFO [main] BDDFrameworkProject:74 - *************** Launching Browser ***************
+2020-05-12 16:42:12,259  INFO [main] BDDFrameworkProject:81 - *************** Opening ULR ***************
+2020-05-12 16:42:16,750  INFO [main] BDDFrameworkProject:129 - *************** Closing Browser ***************
+2020-05-12 16:45:59,139  INFO [main] BDDFrameworkProject:74 - *************** Launching Browser ***************
+2020-05-12 16:45:59,172  INFO [main] BDDFrameworkProject:81 - *************** Opening ULR ***************
+2020-05-12 16:46:04,997  INFO [main] BDDFrameworkProject:129 - *************** Closing Browser ***************
+2020-05-12 16:46:10,097  INFO [main] BDDFrameworkProject:74 - *************** Launching Browser ***************
+2020-05-12 16:46:10,099  INFO [main] BDDFrameworkProject:81 - *************** Opening ULR ***************
+2020-05-12 16:56:28,289  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-12 16:56:28,339  INFO [main] BDDFrameworkProject:82 - *************** Opening ULR ***************
+2020-05-12 16:56:33,077  INFO [main] BDDFrameworkProject:130 - *************** Closing Browser ***************
+2020-05-12 16:56:38,158  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-12 16:56:38,159  INFO [main] BDDFrameworkProject:82 - *************** Opening ULR ***************
+2020-05-12 16:59:50,518  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-12 16:59:50,550  INFO [main] BDDFrameworkProject:82 - *************** Opening ULR ***************
+2020-05-12 16:59:55,851  INFO [main] BDDFrameworkProject:130 - *************** Closing Browser ***************
+2020-05-12 17:00:00,868  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-12 17:00:00,869  INFO [main] BDDFrameworkProject:82 - *************** Opening ULR ***************
+2020-05-12 17:07:42,140  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-12 17:07:42,186  INFO [main] BDDFrameworkProject:82 - *************** Opening ULR ***************
+2020-05-12 17:10:11,305  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-12 17:10:11,363  INFO [main] BDDFrameworkProject:82 - *************** Opening ULR ***************
+2020-05-12 17:13:51,141  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-12 17:13:51,180  INFO [main] BDDFrameworkProject:82 - *************** Opening ULR ***************
+2020-05-12 17:16:26,189  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-12 17:16:26,232  INFO [main] BDDFrameworkProject:82 - *************** Opening ULR ***************
+2020-05-12 17:19:05,689  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-12 17:19:05,750  INFO [main] BDDFrameworkProject:82 - *************** Opening ULR ***************
+2020-05-14 14:06:21,043  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-14 14:06:21,095  INFO [main] BDDFrameworkProject:82 - *************** Opening ULR ***************
+2020-05-14 14:13:15,332  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-14 14:13:15,409  INFO [main] BDDFrameworkProject:82 - *************** Opening ULR ***************
+2020-05-14 14:14:48,459  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-14 14:14:48,507  INFO [main] BDDFrameworkProject:82 - *************** Opening ULR ***************
+2020-05-14 14:14:54,715  INFO [main] BDDFrameworkProject:130 - *************** Closing Browser ***************
+2020-05-14 14:15:40,008  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-14 14:15:40,041  INFO [main] BDDFrameworkProject:82 - *************** Opening ULR ***************
+2020-05-14 14:15:47,432  INFO [main] BDDFrameworkProject:130 - *************** Closing Browser ***************
+2020-05-14 14:17:49,143  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-14 14:17:49,190  INFO [main] BDDFrameworkProject:82 - *************** Opening ULR ***************
+2020-05-14 14:17:55,771  INFO [main] BDDFrameworkProject:130 - *************** Closing Browser ***************
+2020-05-14 14:20:45,558  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-14 14:20:45,604  INFO [main] BDDFrameworkProject:82 - *************** Opening ULR ***************
+2020-05-14 14:20:56,483  INFO [main] BDDFrameworkProject:130 - *************** Closing Browser ***************
+2020-05-14 14:23:22,880  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-14 14:23:22,949  INFO [main] BDDFrameworkProject:82 - *************** Opening ULR ***************
+2020-05-14 14:23:33,647  INFO [main] BDDFrameworkProject:130 - *************** Closing Browser ***************
+2020-05-14 14:27:26,691  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-14 14:27:26,721  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-14 14:27:32,751  INFO [main] BDDFrameworkProject:131 - *************** Closing Browser ***************
+2020-05-14 14:34:57,710  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-14 14:34:57,734  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-14 14:35:04,040  INFO [main] BDDFrameworkProject:131 - *************** Closing Browser ***************
+2020-05-14 14:38:36,320  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-14 14:38:36,339  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-14 14:38:42,385  INFO [main] BDDFrameworkProject:131 - *************** Closing Browser ***************
+2020-05-14 14:38:46,347  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-14 14:38:46,349  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-15 10:56:14,744  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-15 10:56:14,771  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-15 10:56:21,485  INFO [main] BDDFrameworkProject:131 - *************** Closing Browser ***************
+2020-05-15 10:56:25,464  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-15 10:56:25,466  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-15 10:56:30,807  INFO [main] BDDFrameworkProject:131 - *************** Closing Browser ***************
+2020-05-15 13:15:40,472  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-15 13:15:40,505  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-15 13:16:07,415  INFO [main] BDDFrameworkProject:131 - *************** Closing Browser ***************
+2020-05-15 13:16:11,451  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-15 13:16:11,452  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-15 13:19:21,354  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-15 13:19:21,375  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-15 13:19:47,651  INFO [main] BDDFrameworkProject:131 - *************** Closing Browser ***************
+2020-05-15 13:19:51,608  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-15 13:19:51,608  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-15 13:20:21,156  INFO [main] BDDFrameworkProject:131 - *************** Closing Browser ***************
+2020-05-15 13:33:48,391  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-15 13:33:48,424  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-15 13:33:54,786  INFO [main] BDDFrameworkProject:131 - *************** Closing Browser ***************
+2020-05-15 13:33:58,823  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-15 13:33:58,823  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-15 13:34:07,232  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-15 13:34:07,234  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-15 13:34:14,123  INFO [main] BDDFrameworkProject:131 - *************** Closing Browser ***************
+2020-05-15 13:39:31,474  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-15 13:39:31,489  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-15 13:39:40,993  INFO [main] BDDFrameworkProject:131 - *************** Closing Browser ***************
+2020-05-15 13:39:44,901  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-15 13:39:44,905  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-15 13:40:01,610  INFO [main] BDDFrameworkProject:131 - *************** Closing Browser ***************
+2020-05-15 13:40:05,508  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-15 13:40:05,509  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-15 13:40:32,011  INFO [main] BDDFrameworkProject:131 - *************** Closing Browser ***************
+2020-05-15 13:47:36,411  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-15 13:47:36,427  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-15 13:48:20,674  INFO [main] BDDFrameworkProject:131 - *************** Closing Browser ***************
+2020-05-15 14:01:04,312  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-15 14:01:04,343  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-15 14:01:13,070  INFO [main] BDDFrameworkProject:131 - *************** Closing Browser ***************
+2020-05-15 14:01:17,107  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-15 14:01:17,108  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-15 14:01:22,979  INFO [main] BDDFrameworkProject:131 - *************** Closing Browser ***************
+2020-05-15 14:01:26,942  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-15 14:01:26,943  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-15 14:01:37,370  INFO [main] BDDFrameworkProject:131 - *************** Closing Browser ***************
+2020-05-16 09:59:53,533  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-16 09:59:53,570  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-16 10:00:10,349  INFO [main] BDDFrameworkProject:131 - *************** Closing Browser ***************
+2020-05-16 10:00:15,139  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-16 10:00:15,145  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-16 10:00:22,997  INFO [main] BDDFrameworkProject:131 - *************** Closing Browser ***************
+2020-05-16 10:00:27,192  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-16 10:00:27,193  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-16 10:00:38,673  INFO [main] BDDFrameworkProject:131 - *************** Closing Browser ***************
+2020-05-16 10:09:59,657  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-16 10:09:59,688  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-16 10:10:10,254  INFO [main] BDDFrameworkProject:131 - *************** Closing Browser ***************
+2020-05-16 10:10:14,509  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-16 10:10:14,511  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-16 10:10:25,150  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-16 10:10:25,153  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-16 10:10:36,463  INFO [main] BDDFrameworkProject:131 - *************** Closing Browser ***************
+2020-05-16 10:22:03,465  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-16 10:22:03,502  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-16 10:22:15,302  INFO [main] BDDFrameworkProject:131 - *************** Closing Browser ***************
+2020-05-16 10:22:19,562  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-16 10:22:19,565  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-16 10:22:29,533  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-16 10:22:29,534  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-16 10:22:41,044  INFO [main] BDDFrameworkProject:131 - *************** Closing Browser ***************
+2020-05-16 10:22:45,445  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-16 10:22:45,447  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-16 10:24:22,154  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-16 10:24:22,201  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-16 10:48:27,704  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-16 10:48:27,737  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-16 10:50:41,221  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-16 10:50:41,250  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-16 10:53:27,610  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-16 10:53:27,670  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-16 10:58:02,376  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-16 10:58:02,413  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-16 11:03:32,944  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-16 11:03:33,004  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-16 11:07:51,361  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-16 11:07:51,394  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-16 11:10:01,722  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-16 11:10:01,760  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-16 11:11:35,373  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-16 11:11:35,406  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-16 11:12:40,724  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-16 11:12:40,762  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-16 11:15:54,704  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-16 11:15:54,732  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-16 11:21:20,522  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-16 11:21:20,549  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-16 11:23:14,639  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-16 11:23:14,670  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-16 11:25:38,271  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-16 11:25:38,316  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-16 11:29:55,157  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-16 11:29:55,197  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-16 11:37:28,335  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-16 11:37:28,362  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-16 11:39:09,285  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-16 11:39:09,329  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-16 11:41:43,097  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-16 11:41:43,125  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-16 11:50:14,466  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-16 11:50:14,495  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-16 11:54:37,697  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-16 11:54:37,736  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-16 11:56:02,624  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-16 11:56:02,675  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-16 11:57:16,408  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-16 11:57:16,446  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-16 12:01:21,378  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-16 12:01:21,427  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-16 16:51:08,469  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-16 16:51:08,551  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-16 16:53:21,850  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-16 16:53:21,894  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-16 16:54:02,507  INFO [main] BDDFrameworkProject:131 - *************** Closing Browser ***************
+2020-05-16 16:58:34,820  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-16 16:58:34,903  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-19 12:23:29,178  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-19 12:23:29,234  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-19 12:25:14,601  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-19 12:25:14,672  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-19 12:28:38,316  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-19 12:28:38,339  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-19 12:30:30,866  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-19 12:30:30,888  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-19 12:32:59,294  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-19 12:32:59,318  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-19 12:36:58,105  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-19 12:36:58,144  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-19 12:39:12,388  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-19 12:39:12,409  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-19 13:08:54,243  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-19 13:08:54,266  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-19 13:14:16,140  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-19 13:14:16,174  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-19 13:19:39,871  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-19 13:19:39,893  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-19 13:33:41,630  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-19 13:33:41,659  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-19 14:23:05,799  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-19 14:23:05,827  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-19 14:25:30,848  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-19 14:25:30,869  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-19 14:29:02,344  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-19 14:29:02,381  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-19 14:40:17,742  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-19 14:40:17,766  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-19 14:40:27,936  INFO [main] BDDFrameworkProject:131 - *************** Closing Browser ***************
+2020-05-19 14:43:13,160  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-19 14:43:13,191  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-19 14:43:49,546  INFO [main] BDDFrameworkProject:131 - *************** Closing Browser ***************
+2020-05-19 14:49:29,159  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-19 14:49:29,193  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-19 14:49:39,019  INFO [main] BDDFrameworkProject:131 - *************** Closing Browser ***************
+2020-05-19 15:19:18,925  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-19 15:19:18,952  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-19 15:19:27,634  INFO [main] BDDFrameworkProject:131 - *************** Closing Browser ***************
+2020-05-19 15:20:09,700  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-19 15:20:09,721  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-19 15:21:31,587  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-19 15:21:31,651  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-19 15:21:40,683  INFO [main] BDDFrameworkProject:131 - *************** Closing Browser ***************
+2020-05-19 15:28:37,368  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-19 15:28:37,392  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-19 15:30:20,357  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-19 15:30:20,402  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-19 15:35:06,150  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-19 15:35:06,176  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-19 15:40:33,820  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-19 15:40:33,844  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-19 15:40:59,478  INFO [main] BDDFrameworkProject:131 - *************** Closing Browser ***************
+2020-05-19 15:44:45,643  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-19 15:44:45,668  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-19 15:45:25,755  INFO [main] BDDFrameworkProject:131 - *************** Closing Browser ***************
+2020-05-19 15:48:18,961  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-19 15:48:18,983  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-19 15:50:12,225  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-19 15:50:12,251  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-19 15:50:51,987  INFO [main] BDDFrameworkProject:131 - *************** Closing Browser ***************
+2020-05-19 16:03:51,261  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-19 16:03:51,285  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-19 16:03:57,473  INFO [main] BDDFrameworkProject:131 - *************** Closing Browser ***************
+2020-05-19 16:08:13,134  INFO [main] BDDFrameworkProject:75 - *************** Launching Browser ***************
+2020-05-19 16:08:13,150  INFO [main] BDDFrameworkProject:83 - *************** Opening ULR ***************
+2020-05-20 14:21:27,252  INFO [main] BDDFrameworkProject:77 - *************** Launching Browser ***************
+2020-05-20 14:21:27,306  INFO [main] BDDFrameworkProject:85 - *************** Opening ULR ***************
+2020-05-20 14:22:12,036  INFO [main] BDDFrameworkProject:133 - *************** Closing Browser ***************
+2020-05-20 14:52:06,350  INFO [main] BDDFrameworkProject:77 - *************** Launching Browser ***************
+2020-05-20 14:52:06,459  INFO [main] BDDFrameworkProject:85 - *************** Opening ULR ***************
+2020-05-20 14:52:16,390  INFO [main] BDDFrameworkProject:133 - *************** Closing Browser ***************
+2020-05-20 14:52:20,385  INFO [main] BDDFrameworkProject:77 - *************** Launching Browser ***************
+2020-05-20 14:52:20,388  INFO [main] BDDFrameworkProject:85 - *************** Opening ULR ***************
+2020-05-20 14:52:31,032  INFO [main] BDDFrameworkProject:77 - *************** Launching Browser ***************
+2020-05-20 14:52:31,032  INFO [main] BDDFrameworkProject:85 - *************** Opening ULR ***************
+2020-05-20 14:52:41,494  INFO [main] BDDFrameworkProject:133 - *************** Closing Browser ***************
+2020-05-20 14:52:45,765  INFO [main] BDDFrameworkProject:77 - *************** Launching Browser ***************
+2020-05-20 14:52:45,765  INFO [main] BDDFrameworkProject:85 - *************** Opening ULR ***************
+2020-05-20 14:53:30,194  INFO [main] BDDFrameworkProject:133 - *************** Closing Browser ***************
+2020-05-20 14:53:34,579  INFO [main] BDDFrameworkProject:77 - *************** Launching Browser ***************
+2020-05-20 14:53:34,581  INFO [main] BDDFrameworkProject:85 - *************** Opening ULR ***************
+2020-05-20 15:07:35,709  INFO [main] BDDFrameworkProject:77 - *************** Launching Browser ***************
+2020-05-20 15:07:35,764  INFO [main] BDDFrameworkProject:85 - *************** Opening ULR ***************
+2020-05-20 15:07:41,830  INFO [main] BDDFrameworkProject:133 - *************** Closing Browser ***************
+2020-05-20 15:08:08,648  INFO [main] BDDFrameworkProject:77 - *************** Launching Browser ***************
+2020-05-20 15:08:08,677  INFO [main] BDDFrameworkProject:85 - *************** Opening ULR ***************
+2020-05-20 15:08:13,910  INFO [main] BDDFrameworkProject:133 - *************** Closing Browser ***************
+2020-05-20 15:08:36,505  INFO [main] BDDFrameworkProject:77 - *************** Launching Browser ***************
+2020-05-20 15:08:36,546  INFO [main] BDDFrameworkProject:85 - *************** Opening ULR ***************
+2020-05-20 15:08:42,683  INFO [main] BDDFrameworkProject:133 - *************** Closing Browser ***************
+2020-05-20 15:09:41,986  INFO [main] BDDFrameworkProject:77 - *************** Launching Browser ***************
+2020-05-20 15:09:42,033  INFO [main] BDDFrameworkProject:85 - *************** Opening ULR ***************
+2020-05-20 15:09:47,743  INFO [main] BDDFrameworkProject:133 - *************** Closing Browser ***************
+2020-05-20 15:10:41,582  INFO [main] BDDFrameworkProject:77 - *************** Launching Browser ***************
+2020-05-20 15:10:41,630  INFO [main] BDDFrameworkProject:85 - *************** Opening ULR ***************
+2020-05-20 15:10:52,275  INFO [main] BDDFrameworkProject:133 - *************** Closing Browser ***************
+2020-05-20 15:38:15,473  INFO [main] BDDFrameworkProject:77 - *************** Launching Browser ***************
+2020-05-20 15:38:15,526  INFO [main] BDDFrameworkProject:85 - *************** Opening ULR ***************
+2020-05-20 15:38:26,163  INFO [main] BDDFrameworkProject:133 - *************** Closing Browser ***************
+2020-05-20 18:50:35,454  INFO [main] BDDFrameworkProject:78 - *************** Launching Browser ***************
+2020-05-20 18:50:35,501  INFO [main] BDDFrameworkProject:86 - *************** Opening ULR ***************
+2020-05-20 18:50:45,356  INFO [main] BDDFrameworkProject:78 - *************** Launching Browser ***************
+2020-05-20 18:50:45,361  INFO [main] BDDFrameworkProject:86 - *************** Opening ULR ***************
+2020-05-20 18:50:56,992  INFO [main] BDDFrameworkProject:78 - *************** Launching Browser ***************
+2020-05-20 18:50:56,993  INFO [main] BDDFrameworkProject:86 - *************** Opening ULR ***************
+2020-05-20 18:51:07,337  INFO [main] BDDFrameworkProject:134 - *************** Closing Browser ***************
+2020-05-20 18:51:11,486  INFO [main] BDDFrameworkProject:78 - *************** Launching Browser ***************
+2020-05-20 18:51:11,487  INFO [main] BDDFrameworkProject:86 - *************** Opening ULR ***************
+2020-05-20 18:51:56,219  INFO [main] BDDFrameworkProject:134 - *************** Closing Browser ***************
+2020-05-20 18:52:00,443  INFO [main] BDDFrameworkProject:78 - *************** Launching Browser ***************
+2020-05-20 18:52:00,445  INFO [main] BDDFrameworkProject:86 - *************** Opening ULR ***************
+2020-05-20 18:52:12,927  INFO [main] BDDFrameworkProject:134 - *************** Closing Browser ***************
+2020-05-21 14:21:18,388  INFO [main] BDDFrameworkProject:78 - *************** Launching Browser ***************
+2020-05-21 14:21:18,419  INFO [main] BDDFrameworkProject:86 - *************** Opening ULR ***************
+2020-05-21 14:21:31,133  INFO [main] BDDFrameworkProject:134 - *************** Closing Browser ***************
+2020-05-21 14:23:04,984  INFO [main] BDDFrameworkProject:78 - *************** Launching Browser ***************
+2020-05-21 14:23:04,999  INFO [main] BDDFrameworkProject:86 - *************** Opening ULR ***************
+2020-05-21 14:23:18,156  INFO [main] BDDFrameworkProject:134 - *************** Closing Browser ***************
+2020-05-21 14:24:18,838  INFO [main] BDDFrameworkProject:78 - *************** Launching Browser ***************
+2020-05-21 14:24:18,853  INFO [main] BDDFrameworkProject:86 - *************** Opening ULR ***************
+2020-05-21 14:24:30,633  INFO [main] BDDFrameworkProject:134 - *************** Closing Browser ***************
+2020-05-21 14:25:59,568  INFO [main] BDDFrameworkProject:78 - *************** Launching Browser ***************
+2020-05-21 14:25:59,589  INFO [main] BDDFrameworkProject:86 - *************** Opening ULR ***************
+2020-05-21 14:26:10,954  INFO [main] BDDFrameworkProject:134 - *************** Closing Browser ***************
+2020-05-21 14:27:16,283  INFO [main] BDDFrameworkProject:78 - *************** Launching Browser ***************
+2020-05-21 14:27:16,298  INFO [main] BDDFrameworkProject:86 - *************** Opening ULR ***************
+2020-05-21 14:27:27,191  INFO [main] BDDFrameworkProject:134 - *************** Closing Browser ***************
+2020-05-21 14:35:25,882  INFO [main] BDDFrameworkProject:78 - *************** Launching Browser ***************
+2020-05-21 14:35:25,921  INFO [main] BDDFrameworkProject:86 - *************** Opening ULR ***************
+2020-05-21 14:37:33,553  INFO [main] BDDFrameworkProject:78 - *************** Launching Browser ***************
+2020-05-21 14:37:33,578  INFO [main] BDDFrameworkProject:86 - *************** Opening ULR ***************
+2020-05-21 14:39:09,659  INFO [main] BDDFrameworkProject:78 - *************** Launching Browser ***************
+2020-05-21 14:39:09,675  INFO [main] BDDFrameworkProject:86 - *************** Opening ULR ***************
+2020-05-21 14:40:57,745  INFO [main] BDDFrameworkProject:78 - *************** Launching Browser ***************
+2020-05-21 14:40:57,776  INFO [main] BDDFrameworkProject:86 - *************** Opening ULR ***************
+2020-05-21 14:46:38,984  INFO [main] BDDFrameworkProject:78 - *************** Launching Browser ***************
+2020-05-21 14:46:39,000  INFO [main] BDDFrameworkProject:86 - *************** Opening ULR ***************
+2020-05-21 14:50:04,938  INFO [main] BDDFrameworkProject:78 - *************** Launching Browser ***************
+2020-05-21 14:50:04,973  INFO [main] BDDFrameworkProject:86 - *************** Opening ULR ***************
+2020-05-21 14:52:27,892  INFO [main] BDDFrameworkProject:78 - *************** Launching Browser ***************
+2020-05-21 14:52:27,930  INFO [main] BDDFrameworkProject:86 - *************** Opening ULR ***************
+2020-05-21 14:54:57,337  INFO [main] BDDFrameworkProject:78 - *************** Launching Browser ***************
+2020-05-21 14:54:57,353  INFO [main] BDDFrameworkProject:86 - *************** Opening ULR ***************
+2020-05-21 14:57:24,543  INFO [main] BDDFrameworkProject:78 - *************** Launching Browser ***************
+2020-05-21 14:57:24,559  INFO [main] BDDFrameworkProject:86 - *************** Opening ULR ***************
+2020-05-21 14:57:36,068  INFO [main] BDDFrameworkProject:134 - *************** Closing Browser ***************
+2020-05-21 14:58:25,402  INFO [main] BDDFrameworkProject:78 - *************** Launching Browser ***************
+2020-05-21 14:58:25,418  INFO [main] BDDFrameworkProject:86 - *************** Opening ULR ***************
+2020-05-21 15:02:51,803  INFO [main] BDDFrameworkProject:78 - *************** Launching Browser ***************
+2020-05-21 15:02:51,823  INFO [main] BDDFrameworkProject:86 - *************** Opening ULR ***************
+2020-05-21 15:04:07,216  INFO [main] BDDFrameworkProject:78 - *************** Launching Browser ***************
+2020-05-21 15:04:07,231  INFO [main] BDDFrameworkProject:86 - *************** Opening ULR ***************
+2020-05-21 15:04:18,355  INFO [main] BDDFrameworkProject:134 - *************** Closing Browser ***************
+2020-05-21 15:12:37,952  INFO [main] BDDFrameworkProject:78 - *************** Launching Browser ***************
+2020-05-21 15:12:37,979  INFO [main] BDDFrameworkProject:86 - *************** Opening ULR ***************
+2020-05-21 15:12:48,427  INFO [main] BDDFrameworkProject:134 - *************** Closing Browser ***************
+2020-05-21 15:13:58,034  INFO [main] BDDFrameworkProject:78 - *************** Launching Browser ***************
+2020-05-21 15:13:58,050  INFO [main] BDDFrameworkProject:86 - *************** Opening ULR ***************
+2020-05-21 15:22:51,053  INFO [main] BDDFrameworkProject:80 - *************** Launching Browser ***************
+2020-05-21 15:22:51,077  INFO [main] BDDFrameworkProject:88 - *************** Opening ULR ***************
+2020-05-21 15:23:59,730  INFO [main] BDDFrameworkProject:136 - *************** Closing Browser ***************
+2020-05-21 15:24:40,056  INFO [main] BDDFrameworkProject:80 - *************** Launching Browser ***************
+2020-05-21 15:24:40,097  INFO [main] BDDFrameworkProject:88 - *************** Opening ULR ***************
+2020-05-21 15:24:51,853  INFO [main] BDDFrameworkProject:136 - *************** Closing Browser ***************
+2020-05-21 15:36:07,992  INFO [main] BDDFrameworkProject:80 - *************** Launching Browser ***************
+2020-05-21 15:36:08,017  INFO [main] BDDFrameworkProject:88 - *************** Opening ULR ***************
+2020-05-21 15:36:19,609  INFO [main] BDDFrameworkProject:136 - *************** Closing Browser ***************
+2020-05-21 15:39:47,455  INFO [main] BDDFrameworkProject:80 - *************** Launching Browser ***************
+2020-05-21 15:39:47,476  INFO [main] BDDFrameworkProject:88 - *************** Opening ULR ***************
+2020-05-21 15:40:00,128  INFO [main] BDDFrameworkProject:136 - *************** Closing Browser ***************
+2020-05-21 15:41:01,961  INFO [main] BDDFrameworkProject:80 - *************** Launching Browser ***************
+2020-05-21 15:41:01,992  INFO [main] BDDFrameworkProject:88 - *************** Opening ULR ***************
+2020-05-21 15:41:13,714  INFO [main] BDDFrameworkProject:136 - *************** Closing Browser ***************
+2020-05-21 15:43:26,175  INFO [main] BDDFrameworkProject:80 - *************** Launching Browser ***************
+2020-05-21 15:43:26,198  INFO [main] BDDFrameworkProject:88 - *************** Opening ULR ***************
+2020-05-21 15:43:37,448  INFO [main] BDDFrameworkProject:136 - *************** Closing Browser ***************
+2020-05-21 16:03:28,701  INFO [main] BDDFrameworkProject:80 - *************** Launching Browser ***************
+2020-05-21 16:03:28,725  INFO [main] BDDFrameworkProject:88 - *************** Opening ULR ***************
+2020-05-21 16:04:57,246  INFO [main] BDDFrameworkProject:80 - *************** Launching Browser ***************
+2020-05-21 16:04:57,278  INFO [main] BDDFrameworkProject:88 - *************** Opening ULR ***************
+2020-05-21 16:11:32,104  INFO [main] BDDFrameworkProject:80 - *************** Launching Browser ***************
+2020-05-21 16:11:32,126  INFO [main] BDDFrameworkProject:88 - *************** Opening ULR ***************
+2020-05-21 16:11:44,252  INFO [main] BDDFrameworkProject:136 - *************** Closing Browser ***************
+2020-05-21 16:25:42,441  INFO [main] BDDFrameworkProject:80 - *************** Launching Browser ***************
+2020-05-21 16:25:42,462  INFO [main] BDDFrameworkProject:88 - *************** Opening ULR ***************
+2020-05-21 16:26:39,526  INFO [main] BDDFrameworkProject:80 - *************** Launching Browser ***************
+2020-05-21 16:26:39,551  INFO [main] BDDFrameworkProject:88 - *************** Opening ULR ***************
+2020-05-21 16:26:52,137  INFO [main] BDDFrameworkProject:136 - *************** Closing Browser ***************
+2020-05-21 16:30:24,084  INFO [main] BDDFrameworkProject:80 - *************** Launching Browser ***************
+2020-05-21 16:30:24,127  INFO [main] BDDFrameworkProject:88 - *************** Opening ULR ***************
+2020-05-21 16:30:36,382  INFO [main] BDDFrameworkProject:136 - *************** Closing Browser ***************
+2020-05-21 16:31:36,468  INFO [main] BDDFrameworkProject:80 - *************** Launching Browser ***************
+2020-05-21 16:31:36,489  INFO [main] BDDFrameworkProject:88 - *************** Opening ULR ***************
+2020-05-21 16:33:16,999  INFO [main] BDDFrameworkProject:80 - *************** Launching Browser ***************
+2020-05-21 16:33:17,040  INFO [main] BDDFrameworkProject:88 - *************** Opening ULR ***************
+2020-05-21 16:34:56,939  INFO [main] BDDFrameworkProject:80 - *************** Launching Browser ***************
+2020-05-21 16:34:56,962  INFO [main] BDDFrameworkProject:88 - *************** Opening ULR ***************
+2020-05-21 16:36:10,601  INFO [main] BDDFrameworkProject:80 - *************** Launching Browser ***************
+2020-05-21 16:36:10,634  INFO [main] BDDFrameworkProject:88 - *************** Opening ULR ***************
+2020-05-21 16:37:04,472  INFO [main] BDDFrameworkProject:80 - *************** Launching Browser ***************
+2020-05-21 16:37:04,497  INFO [main] BDDFrameworkProject:88 - *************** Opening ULR ***************
+2020-05-21 16:37:15,589  INFO [main] BDDFrameworkProject:136 - *************** Closing Browser ***************
+2020-05-23 09:23:43,515  INFO [main] BDDFrameworkProject:80 - *************** Launching Browser ***************
+2020-05-23 09:23:43,555  INFO [main] BDDFrameworkProject:88 - *************** Opening ULR ***************
+2020-05-23 09:25:49,535  INFO [main] BDDFrameworkProject:80 - *************** Launching Browser ***************
+2020-05-23 09:25:49,589  INFO [main] BDDFrameworkProject:88 - *************** Opening ULR ***************
+2020-05-23 09:26:38,452  INFO [main] BDDFrameworkProject:136 - *************** Closing Browser ***************
+2020-05-23 09:30:00,657  INFO [main] BDDFrameworkProject:80 - *************** Launching Browser ***************
+2020-05-23 09:30:00,701  INFO [main] BDDFrameworkProject:88 - *************** Opening ULR ***************
+2020-05-23 09:30:46,089  INFO [main] BDDFrameworkProject:136 - *************** Closing Browser ***************
+2020-05-23 09:33:55,457  INFO [main] BDDFrameworkProject:81 - *************** Launching Browser ***************
+2020-05-23 09:33:55,509  INFO [main] BDDFrameworkProject:89 - *************** Opening ULR ***************
+2020-05-23 09:34:45,931  INFO [main] BDDFrameworkProject:137 - *************** Closing Browser ***************
+2020-05-23 09:52:01,329  INFO [main] BDDFrameworkProject:81 - *************** Launching Browser ***************
+2020-05-23 09:52:01,436  INFO [main] BDDFrameworkProject:89 - *************** Opening ULR ***************
+2020-05-23 09:52:16,018  INFO [main] BDDFrameworkProject:137 - *************** Closing Browser ***************
+2020-05-23 09:52:51,128  INFO [main] BDDFrameworkProject:81 - *************** Launching Browser ***************
+2020-05-23 09:52:51,179  INFO [main] BDDFrameworkProject:89 - *************** Opening ULR ***************
+2020-05-23 09:53:05,863  INFO [main] BDDFrameworkProject:137 - *************** Closing Browser ***************
+2020-05-23 10:00:19,398  INFO [main] BDDFrameworkProject:81 - *************** Launching Browser ***************
+2020-05-23 10:00:19,435  INFO [main] BDDFrameworkProject:89 - *************** Opening ULR ***************
+2020-05-23 10:00:32,917  INFO [main] BDDFrameworkProject:137 - *************** Closing Browser ***************
+2020-05-23 10:05:13,883  INFO [main] BDDFrameworkProject:81 - *************** Launching Browser ***************
+2020-05-23 10:05:13,941  INFO [main] BDDFrameworkProject:89 - *************** Opening ULR ***************
+2020-05-23 10:05:27,475  INFO [main] BDDFrameworkProject:137 - *************** Closing Browser ***************
+2020-05-23 10:06:38,966  INFO [main] BDDFrameworkProject:81 - *************** Launching Browser ***************
+2020-05-23 10:06:39,019  INFO [main] BDDFrameworkProject:89 - *************** Opening ULR ***************
+2020-05-23 10:11:19,395  INFO [main] BDDFrameworkProject:81 - *************** Launching Browser ***************
+2020-05-23 10:11:19,437  INFO [main] BDDFrameworkProject:89 - *************** Opening ULR ***************
+2020-05-23 10:16:06,292  INFO [main] BDDFrameworkProject:81 - *************** Launching Browser ***************
+2020-05-23 10:16:06,338  INFO [main] BDDFrameworkProject:89 - *************** Opening ULR ***************
+2020-05-23 10:35:57,235  INFO [main] BDDFrameworkProject:67 - *************** Launching Browser ***************
+2020-05-23 10:35:57,282  INFO [main] BDDFrameworkProject:75 - *************** Opening ULR ***************
+2020-05-23 10:37:25,350  INFO [main] BDDFrameworkProject:67 - *************** Launching Browser ***************
+2020-05-23 10:37:25,394  INFO [main] BDDFrameworkProject:75 - *************** Opening ULR ***************
