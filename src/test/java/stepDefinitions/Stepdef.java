@@ -7,6 +7,7 @@ import java.util.concurrent.TimeUnit;
 
 import org.junit.Assert;
 import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
@@ -268,11 +269,13 @@ public class Stepdef extends BaseClass
 		sb = new SearchBoxLocators(driver);
 		
 		sb.enterText("Mobile");
+		Thread.sleep(3000);
 		sb.clickSearchButton();
-		String title = driver.getTitle();
-		System.out.println(title);
-		Assert.assertTrue(title.contains("Mobile"));
-		
+		//sb.clickSearchButton();
+		/*
+		 * String title = driver.getTitle(); System.out.println(title);
+		 * Assert.assertTrue(title.contains("Mobile"));
+		 */
 	}
 	
 	@When("Enter Text with single character in SearchBox")
@@ -363,9 +366,38 @@ public class Stepdef extends BaseClass
 				System.out.println(printlink.getText());
 				System.out.println(data);
 				Assert.assertEquals(data, livedata);
-		  }
-		
-		
+		  }	
 	}
+	
+	@When("Select in between min to max")
+	public void select_in_between_min_to_max() throws InterruptedException
+	{
+		sb = new SearchBoxLocators(driver);
+		Thread.sleep(3000);
+		/*
+		 * JavascriptExecutor js = (JavascriptExecutor) driver; //WebElement refindBy =
+		 * driver.findElement(By.
+		 * xpath("//button[contains(text(),Price)]//parent::div[@class='flowtip-flyout utilbar-store-flyout flowtip-flyout-animate']"
+		 * ));
+		 * 
+		 * js.executeScript("arguments[0].scrollIntoView(false);",refindBy);
+		 * Thread.sleep(3000); ((JavascriptExecutor)
+		 * driver).executeScript("window.scrollBy(0,-50)",""); Thread.sleep(3000);
+		 */
+		if(sb.scrollByRefindBy())
+			Assert.assertTrue(true);
+		else
+			Assert.assertTrue(false);
+		sb.clickOnPrice();
+		Thread.sleep(3000);
+		sb.setMinPrice("50");
+		sb.setMaxPrice("120");
+		Thread.sleep(3000);
+		sb.clickOnGo();
+		Thread.sleep(60000);
+	}
+
+	
+
 
 }
