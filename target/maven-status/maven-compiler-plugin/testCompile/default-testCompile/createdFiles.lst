@@ -1,0 +1,9 @@
+stepDefinitions\Hooks.class
+pageObjects\LoginPage.class
+stepDefinitions\Stepdef.class
+pageObjects\SearchCustomerPage.class
+testRunner\TestRunner.class
+stepDefinitions\BaseClass.class
+stepDefinitions\XLUtils.class
+pageObjects\SearchBoxLocators.class
+pageObjects\AddCustomerPage.class

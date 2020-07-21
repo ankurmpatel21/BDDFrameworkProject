@@ -1,8 +1,10 @@
 package testRunner;
 //This is My Test Runner Class
 import org.junit.runner.RunWith;
-import cucumber.api.CucumberOptions;
-import cucumber.api.junit.Cucumber;
+
+import io.cucumber.junit.*;
+import io.cucumber.junit.CucumberOptions;
+
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
@@ -15,9 +17,10 @@ features=//"Features//Login.feature",
 		monochrome=true,
 		//tags = {"@Sanity", "@Regression"}, //And
 		//tags={"@Sanity,@Regression"}, //Or
-		tags= {"@Regression"},
+		tags= "@Regression",
 		plugin= {"pretty","html:target/test-output"}
-		)
+		//plugin = { "pretty", "html:target/cucumber-html-reports"}
+		        )
 public class TestRunner 
 {
 

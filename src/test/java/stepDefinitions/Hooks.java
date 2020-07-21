@@ -9,8 +9,8 @@ import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-import cucumber.api.java.After;
-import cucumber.api.java.Before;
+import io.cucumber.java.After;
+import io.cucumber.java.Before;
 import pageObjects.LoginPage;
 
 public class Hooks extends BaseClass

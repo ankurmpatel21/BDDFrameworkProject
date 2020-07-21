@@ -1,5 +1,6 @@
 package pageObjects;
 
+import java.util.List;
 import java.util.concurrent.TimeUnit;
 
 import org.junit.Assert;
@@ -10,6 +11,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.openqa.selenium.support.ui.Select;
 
 
 
@@ -57,14 +59,167 @@ public class SearchBoxLocators
 	
 	By refindBy = By.xpath("//div[@class='desktop-bar-left-filter-wrapper']//child::p");
 	
-	By minPrice = By.xpath("//div[@class='flowtip-flyout-modal flowtip-flyout-modal-bottom']//input[@placeholder='Min']");
+	By minPrice = By.xpath("(//input[@name='minPrice'])[1]");
 	
-	By maxPrice = By.xpath("//div[@class='flowtip-flyout-modal flowtip-flyout-modal-bottom']//input[@placeholder='Max']");
+	By maxPrice = By.xpath("(//input[@name='maxPrice'])[1]");
 	
 	By go = By.xpath("//div[@class='flowtip-flyout-modal flowtip-flyout-modal-bottom']//span[@class='button-wrapper'][contains(text(),'Go')]");
 	
 	By filterStrip = By.xpath("//button[contains(text(),Price)]//parent::div[@class='flowtip-flyout utilbar-store-flyout flowtip-flyout-animate']");
 	
+	By sortBy = By.xpath("//select[@data-automation-id='field']");
+	
+	By color = By.xpath("//span[text()='Color']");
+	
+	By listColor = By.xpath("//div[@class='variants variants-swatches']//child::span[@tabindex=0]/div/span");
+	
+	By departments = By.xpath("//span[@class='icon-button-children'and text()='Departments']");
+	
+	By item1 = By.xpath("(//div[@class='orientation-square'])[1]");
+	
+	By addtocartItem1 = By.xpath("//span[text()='Add to cart']");
+	
+	//By item1Name = By.xpath("(//a[@data-us-item-id='21105567'])[2]");
+	
+	By item1Name = By.xpath("(//a[@data-tealeaf-id='CartItemInfo'])[1]");
+	
+	By item1price = By.xpath("//div[@data-automation-id='cart-item-primary-price']/span");
+	
+	By item1qty = By.xpath("//div[@data-automation-id='cart-item-qty-label']/span");
+	
+	//By viewcart = By.xpath("(//span[@class='button-wrapper'])[2]");
+	
+	By viewcart = By.xpath("//button[@data-automation-id='pac-pos-view-cart']");
+	
+	By iqty1 = By.xpath("(//select[@aria-label='Quantity'])[1]");
+	
+	By curprice = By.xpath("(//span[@class='visuallyhidden'])[5]");
+	
+	By heading = By.xpath("//h2[@data-tl-id='HomePage-contentZone26-ModuleHeader-title']");
+	 
+	By toscroll = By.xpath("//div[@data-tl-id='TempoItemTile-0']");
+	
+	By leftswipe = By.xpath("//div[@class='slider-decorator-1']");
+	
+	public boolean checkSwipeElementPresent(By lswipe)
+	{
+		try 
+		{
+			return ldriver.findElement(lswipe).isDisplayed();
+		}
+		catch(Exception e)
+		{
+			e.printStackTrace();
+			return false;
+		}
+	}
+	
+	public void clickOnLeftSwipe() throws InterruptedException
+	{
+		go:
+		{
+		if(checkSwipeElementPresent(leftswipe))
+		{
+			getElement(leftswipe).click();
+			Thread.sleep(5000);
+			break go;
+		}
+		else
+		{
+			System.out.println("Last");
+		}
+		}
+		
+	}
+	
+	
+	public String currentPrice()
+	{ 
+		String iprice = getElement(curprice).getText();
+		return iprice;
+	}
+	
+	public String selectQuantity()
+	{
+		if(checkElementPresent(iqty1))
+		{
+			Select qtyitem = new Select(ldriver.findElement(iqty1));
+		    String qty = qtyitem.getFirstSelectedOption().getText();
+		    return qty;
+		}
+		else
+		{
+			return "2";
+		}
+		
+		
+	}
+	
+	public boolean checkElementPresent(By wb)
+	{
+		try
+		{
+			return ldriver.findElement(wb).isDisplayed();
+		}
+		catch(Exception e)
+		{
+			return false;
+		}
+		
+	}
+	
+	public String selectQuantity(String quantuty)
+	{
+		Select qtyitem = new Select(ldriver.findElement(iqty1));
+		qtyitem.selectByVisibleText(quantuty);
+		String qty2 = qtyitem.getFirstSelectedOption().getText();
+		return qty2;
+		
+	}
+	
+	public void clickOnViewCart()
+	{
+		getElement(viewcart).click();
+	}
+	
+	public String item1Quantity()
+	{
+		String iqty= getElement(item1qty).getText();
+		return iqty;
+	}
+	
+	public String item1Price()
+	{ 
+		String iprice = getElement(item1price).getText();
+		return iprice;
+	}
+	
+	public String item1Name()
+	{
+		String iname = getElement(item1Name).getText();
+		return iname;
+	}
+	
+	public void selectItemAndAddtoCart()
+	{
+		getElement(item1).click();
+		
+		//getElement(addtocartItem1).click();
+	}
+	
+	public List<WebElement> listColor()
+	{
+		return ldriver.findElements(listColor);
+	}
+	
+	public void sortBy(String sort) throws InterruptedException
+	{
+		Select ddsortby = new Select(ldriver.findElement(sortBy));
+		ddsortby.selectByVisibleText(sort);
+		
+		Thread.sleep(60000);
+		//ddsortby.selectByValue(sort);
+	}
 	public void clickOnGo()
 	{
 		ldriver.findElement(go).click();
@@ -98,16 +253,17 @@ public class SearchBoxLocators
 		return ldriver.findElement(locator);
 	}
 	
-	public boolean scrollByRefindBy() 
+	public boolean scrollByLocators() 
 	{
-		try {
-		JavascriptExecutor js = (JavascriptExecutor) ldriver;
+		try 
+		{
+			JavascriptExecutor js = (JavascriptExecutor) ldriver;
 		//WebElement refindBy = driver.findElement(By.xpath("//button[contains(text(),Price)]//parent::div[@class='flowtip-flyout utilbar-store-flyout flowtip-flyout-animate']"));
 		
-		js.executeScript("arguments[0].scrollIntoView(false);",getElement(filterStrip));
+		js.executeScript("arguments[0].scrollIntoView(false);",getElement(toscroll));
 		Thread.sleep(3000);
-	    ((JavascriptExecutor) ldriver).executeScript("window.scrollBy(0,-50)","");
-	    Thread.sleep(3000);
+	    //((JavascriptExecutor) ldriver).executeScript("window.scrollBy(0,-50)","");
+	    //Thread.sleep(3000);
 	    return true;
 	}
 	catch(Exception e)
