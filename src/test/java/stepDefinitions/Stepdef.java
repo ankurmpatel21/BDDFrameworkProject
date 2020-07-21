@@ -477,6 +477,7 @@ public class Stepdef extends BaseClass {
 	@When("verify swipe button and get screenshot")
 	public void verify_swipe_button_and_get_screenshot()
 	{
+		//XAXAXAX
 		try {
 		sb = new SearchBoxLocators(driver);
 		Thread.sleep(5000);
